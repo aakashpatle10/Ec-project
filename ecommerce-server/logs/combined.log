@@ -1,7 +1,0 @@
-2026-09-12T16:39:27.456Z [[32minfo[39m]: Logger initialized.
-2026-09-12T16:39:30.165Z [[32minfo[39m]: Connecting to database...
-2026-09-12T16:39:27.456Z [[32minfo[39m]: Logger initialized.
-2026-09-12T16:39:30.165Z [[32minfo[39m]: Connecting to database...
-2026-09-12T16:39:30.209Z [[32minfo[39m]: MongoDB connected successfully
-2026-09-12T16:39:30.210Z [[32minfo[39m]: MongoDB connected successfully
-2026-09-12T16:39:30.213Z [[32minfo[39m]: Server running on http://localhost:5003
